@@ -6,7 +6,7 @@ Identify geographic coordinates of a given image and pass them to a Python scrip
 **Steps:**  
 1. **Reverse Image Search:**  
    - Google lens → matched to UTC mall.
-![alt text](/images/GoogleLens.jpg)  
+![alt text](/GoogleLens.jpg)  
 
 2. **Visual Verification:**  
    - Used Google Maps Satellite View → matched ceiling and palm trees.
